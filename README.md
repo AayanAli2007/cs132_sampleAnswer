@@ -18,9 +18,7 @@ $$
 $$
 
 Let:
-$$
-A = \neg B
-$$
+$$A = \neg B$$
 
 $$
 B = C \rightarrow (r \rightarrow q)
